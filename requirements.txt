@@ -1,5 +1,7 @@
-numpy==1.19.2
-pandas==1.1.5
-tensorflow==2.5.0
-torch==1.12.0
-matplotlib==3.5.2
+numpy==1.26.4
+pandas==2.2.2
+torch==2.1.2
+scipy==1.11.4
+scikit-learn==1.3.2
+pyarrow
+wandb==0.18.7
