@@ -5,7 +5,7 @@ import os
 python data_engineer.py
 """
 
-OUTPUT_DIR = "data"
+OUTPUT_DIR = "../../data"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Download files
